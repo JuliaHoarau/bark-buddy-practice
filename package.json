@@ -15,7 +15,6 @@
     "@nuxt/image": "^1.8.1",
     "@pinia/nuxt": "^0.7.0",
     "@supabase/supabase-js": "^2.46.1",
-    "express": "^4.21.1",
     "nuxt": "^3.14.159",
     "vue": "latest",
     "vue-router": "latest"
